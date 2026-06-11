@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Kevin Wang"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "My name is Kevin (Chen) Wang and I am a 4th year PhD candidate at the University of North Carolina at Chapel Hill, in Professor Didong Li's lab. My work lies in the intersection of non-parametric statistics and theoretical guarantees in machine learning, with a special emphasis in recursive learning."
   location         : "University of North Carolina at Chapel Hill"
-  employer         : "University of North Carolina at Chapel Hill"
+  employer         : #"University of North Carolina at Chapel Hill"
   uri              : # URL
   email            : "kcwang@unc.edu" 
 
